@@ -1,0 +1,55 @@
+/*!
+    Theme Name: << PROJECT NAME >>
+    Theme URI: << PROJECT GIT URL >>
+    Description: << PROJECT DESCRIPTION >>
+    Author: Fueled
+    Author URI: http://fueled.com
+    Version: 1.0.0
+*/
+
+/* ==========================================================================
+   Variables
+   ========================================================================== */
+
+@import 'vars';
+
+
+
+
+
+/* ==========================================================================
+   Vendor
+   ========================================================================== */
+
+@import 'vendor/mixins';
+@import 'vendor/normalize';
+
+
+
+
+
+/* ==========================================================================
+   Modules
+   ========================================================================== */
+
+@import 'modules/base';
+@import 'modules/buttons';
+@import 'modules/inputs';
+@import 'modules/lists';
+@import 'modules/typography';
+@import 'modules/misc';
+@import 'modules/breakpoints';
+
+
+
+
+
+/* ==========================================================================
+   Partials
+   ========================================================================== */
+
+@import 'partials/header';
+@import 'partials/nav';
+@import 'partials/sidebar';
+@import 'partials/main';
+@import 'partials/footer';
