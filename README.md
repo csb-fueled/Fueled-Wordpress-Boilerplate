@@ -1,4 +1,4 @@
-Fueled-Wordpress-Boilerplate
+Fueled Wordpress Boilerplate
 ============================
 
-A boilerplate for Wordpress builds
+The Fueled Wordpress boilerplate is a bare-bones theme for starting any Wordpress based projects.
